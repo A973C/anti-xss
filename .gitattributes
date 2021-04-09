@@ -13,3 +13,5 @@
 /phpstan.neon export-ignore
 /phpunit.xml export-ignore
 /.whitesource export-ignore
+
+*.php linguist-detectable=true
